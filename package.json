@@ -1,0 +1,19 @@
+{
+  "name": "hello-pwa",
+  "version": "1.0.0",
+  "description": "hello-pwa",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgr8web/hello-PWA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgr8web/hello-PWA/issues"
+  },
+  "homepage": "https://github.com/dgr8web/hello-PWA#readme"
+}
